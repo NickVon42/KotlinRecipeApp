@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "542062286654",
+    "firebase_url": "https://kotlinrecipeapp.firebaseio.com",
+    "project_id": "kotlinrecipeapp",
+    "storage_bucket": "kotlinrecipeapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542062286654:android:d3cf91b8fa473cbeb13e6f",
+        "android_client_info": {
+          "package_name": "com.example.kotlinrecipeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542062286654-p3sqbuiapmbdpt2vg5hpoigab59d4l26.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kotlinrecipeapp",
+            "certificate_hash": "a9f3f0672eac119fb7417b8163798546da03d0f7"
+          }
+        },
+        {
+          "client_id": "542062286654-mhttk8kp7l8gvlmhvtn2e4hdpqi9363e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC-TYG2Kxt9UQmmB5hQ5utpyl1lKhZ-Lw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "542062286654-mhttk8kp7l8gvlmhvtn2e4hdpqi9363e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

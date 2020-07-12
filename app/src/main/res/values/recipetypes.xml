@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="recipe_types">
+        <item>Keto</item>
+        <item>Quick and Easy</item>
+        <item>Dessert</item>
+    </string-array>
+</resources>
